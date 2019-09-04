@@ -5,11 +5,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 
 @SpringBootApplication(exclude= DataSourceAutoConfiguration.class )
-public class YinfengTestApplication {
+public class TestApplication {
 
 
 	public static void main(String[] args) {
-		SpringApplication.run(YinfengTestApplication.class, args) ;
+		SpringApplication.run(TestApplication.class, args) ;
 	}
 
 }

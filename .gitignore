@@ -25,3 +25,10 @@ HELP.md
 /.nb-gradle/
 /build/
 /.gitignore
+!/.mvn/wrapper/maven-wrapper.properties
+!/.mvn/wrapper/maven-wrapper.jar
+!/.mvn/wrapper/MavenWrapperDownloader.java
+/.mvn/wrapper/maven-wrapper.properties
+/.mvn/wrapper/MavenWrapperDownloader.java
+/.mvn/wrapper/maven-wrapper.jar
+/.mvn/
