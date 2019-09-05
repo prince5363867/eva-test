@@ -8,5 +8,5 @@ package com.eva.evaTest.adapter.objectAdapter;
  * @date 2019/9/320:30
  */
 public class Adaptee {
-    public void sampleOperation1(){}
+    public void sampleOperation1(){} 
 }
