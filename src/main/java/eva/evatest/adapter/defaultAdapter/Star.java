@@ -1,7 +1,7 @@
 package eva.evatest.adapter.defaultAdapter;
 
 
-import com.eva.evaTest.adapter.defaultAdapter.impl.Bonze;
+import eva.evatest.adapter.defaultAdapter.impl.Bonze;
 
 /**
  * @author 方银剑

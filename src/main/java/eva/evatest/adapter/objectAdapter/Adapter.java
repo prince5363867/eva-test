@@ -1,7 +1,7 @@
 package eva.evatest.adapter.objectAdapter;
 
 
-import com.eva.evaTest.adapter.objectAdapter.impl.Target;
+import eva.evatest.adapter.objectAdapter.impl.Target;
 
 /**
  * @author 方银剑
